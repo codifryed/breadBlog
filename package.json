@@ -1,11 +1,11 @@
 {
-    "title": "Business Casual",
-    "name": "startbootstrap-business-casual",
-    "version": "5.0.10",
+    "title": "Bread Guy",
+    "name": "bread-guy-blog",
+    "version": "6.0.0",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A casual HTML website theme for businesses built with Bootstrap",
+    "description": "A blog about bread and some Guy",
     "keywords": [
         "css",
         "sass",
@@ -14,11 +14,6 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/business-casual",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-business-casual/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
